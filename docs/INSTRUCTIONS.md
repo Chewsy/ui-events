@@ -41,11 +41,11 @@ Link naar specifieke bronnen die je denkt nodig te hebben, en beschrijf in eigen
 
 ##### Basic events + feedback
 
-1. **Frontend**: Click → scale animatie (hint: transform scale)
-2. **Design**: Click → jump animatie (krijg je van ons)
-3. **&**: Click → translate animatie (hint: translate)
-4. **Development**: Double click → shake animatie
-5. **Sprint** 5: Focus → kleuren animatie
+<!-- 1. **Frontend**: Click → scale animatie (hint: transform scale)
+2. **Design**: Click → jump animatie (krijg je van ons) -->
+<!-- 3. **&**: Click → translate animatie (hint: translate) -->
+<!-- 4. **Development**: Double click → shake animatie -->
+<!-- 5. **Sprint** 5: Focus → kleuren animatie -->
 6. **Fix**: Mouseover → verander tekst in de link (hint: textContent)
 7. **The**: Mouseout → rotate animatie
 8. **Flow**: Mousedown en mouseup → flip en terug
